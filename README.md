@@ -1,5 +1,5 @@
 # Sensor-Comparisons
-GitHub repo for particulate matter (PM) sensor comparison project in Atlanta, GA. Code is either written for jupyer notebook (.ipynb).  
+GitHub repo for particulate matter (PM) sensor comparison project in Atlanta, GA. Code is written for jupyer notebook (.ipynb).  
   
 Zahra Shivji<sup>1</sup>, Sabrina Westgate<sup>1</sup>, and Nga Lee Ng<sup>1,2,3</sup>  
 (1)School of Chemical & Biomolecular Engineering, Georgia Institute of Technology, Atlanta, GA  
